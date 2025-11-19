@@ -8,6 +8,8 @@ By Ben Moseley, 2022
 
 This workshop builds upon my blog post on PINNs: https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/. 
 
+View the recording of me giving this workshop to *The Science Circle* on [YouTube](https://www.youtube.com/watch?v=G_hIppUWcsc)
+
 Read the seminal PINN papers [here](https://ieeexplore.ieee.org/document/712178) and [here](https://www.sciencedirect.com/science/article/pii/S0021999118307125).
 
 
